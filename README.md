@@ -4,9 +4,9 @@
 ### Welcome to my wonderful github
 
 #### I'm currently working on 
-* ### creating online graph calculator
-* ### 3d games
-* ### resturant recommend application on the mobile 🤔
+* ##### creating online graph calculator
+* ##### 3d games
+* ##### resturant recommend application on the mobile 🤔
 
 Hope everyone enjoy read and watching my repository and my project 😄
 
