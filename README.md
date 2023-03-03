@@ -13,10 +13,16 @@ Hope everyone enjoy read and watching my repository and my project 😄
 
 ```
 my skill = {
-programming = ["C", "C++", "C#", "Java", "Python", "Scala", "Rust", "JavaScript", "TypeScrip", "Flutter", "Dart"]
-framework = ["Flask", "Django", "Sprintboot", "React"]
-database = ["mariadb", "mysql"]
-misc = ["Docker", "Git", "Linux", "pytest"]
+  hardskill = {
+    programming = ["C", "C++", "C#", "Java", "Python", "Scala", "Rust", "JavaScript", "TypeScrip", "Flutter", "Dart"]
+    framework = ["Flask", "Django", "Sprintboot", "React"]
+    database = ["mariadb", "mysql"]
+    misc = ["Docker", "Git", "Linux", "pytest"]
+  }
+  softskill = {
+    working = ["working in group", "photoshop", "premierpro"]
+  }
+ 
 }
 ```
 <!--
