@@ -1,7 +1,8 @@
 ## Hi there 👋
-### My name is Poon. Welcome to my wonderful github
-I'm currently working on creating online graph calculator, 3d games, and resturant recommend application on the mobile 😄
-Hope everyone enjoy read and watching my repository and my project
+### My name is Poon. I'm 3 years in Computer Science of Mahidol University International Colleague. Welcome to my wonderful github
+I'm currently working on creating online graph calculator, 3d games, and resturant recommend application on the mobile 🤔
+Hope everyone enjoy read and watching my repository and my project 😄
+
 
 <!--
 **PoonwannadoCoding/PoonwannadoCoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
