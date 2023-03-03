@@ -1,7 +1,7 @@
 ## Hi there 👋
 ### My name is Poon. 
-### I'm 3 years in Computer Science of Mahidol University International College.
-### And Teching Assistant on Functional Parallel Programming and Data Structure and Object Oranted Programming
+### * I'm 3rd year Computer Science Student at Mahidol University International College.
+### * Teaching Assistant on Functional Parallel Programming and Data Structure and Object Oriented Programming.
 ### Welcome to my wonderful github
 
 #### I'm currently working on 
