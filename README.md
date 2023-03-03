@@ -11,7 +11,14 @@
 
 Hope everyone enjoy read and watching my repository and my project 😄
 
-
+```
+my skill = {
+programming = ["C", "C++", "C#", "Java", "Python", "Scala", "Rust", "JavaScript", "TypeScrip", "Flutter", "Dart"]
+framework = ["Flask", "Django", "Sprintboot", "React"]
+database = ["mariadb", "mysql"]
+misc = ["Docker", "Git", "Linux", "pytest"]
+}
+```
 <!--
 **PoonwannadoCoding/PoonwannadoCoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
