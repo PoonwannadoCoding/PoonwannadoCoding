@@ -8,7 +8,7 @@
 #### I'm currently working on 
 * ##### Online graph calculator
 * ##### 3d games
-* ##### resturant recommend application on the mobile 🤔
+* ##### fuel price calculator on the mobile 🤔
 
 Hope everyone enjoy read and watching my repository and my project 😄
 
