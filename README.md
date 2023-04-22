@@ -18,7 +18,7 @@ my skill = {
     programming = ["C", "C++", "C#", "Java", "Python", "Scala", "Rust", "JavaScript", "TypeScrip", "Dart"]
     framework = ["Flask", "Django", "Sprintboot", "React", "Flutter"]
     database = ["mariadb", "mysql"]
-    misc = ["Docker", "Git", "Linux", "pytest"]
+    misc = ["Docker", "Git", "Linux", "pytest", "CI/CD"]
   }
   softskill = {
     working = ["working in group", "photoshop", "premierpro"]
