@@ -15,8 +15,8 @@ Hope everyone enjoy read and watching my repository and my project 😄
 ```
 my skill = {
   hardskill = {
-    programming = ["C", "C++", "C#", "Java", "Python", "Scala", "Rust", "JavaScript", "TypeScrip", "Flutter", "Dart"]
-    framework = ["Flask", "Django", "Sprintboot", "React"]
+    programming = ["C", "C++", "C#", "Java", "Python", "Scala", "Rust", "JavaScript", "TypeScrip", "Dart"]
+    framework = ["Flask", "Django", "Sprintboot", "React", "Flutter"]
     database = ["mariadb", "mysql"]
     misc = ["Docker", "Git", "Linux", "pytest"]
   }
