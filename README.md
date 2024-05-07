@@ -1,5 +1,5 @@
 ## Hi there 👋
-✨ Just a man who chase his dream to be Cyber Security ✨
+✨ Just a Builder ✨
 ### My name is Poon. 🌱
 ### * I'm 4th year Computer Science Student at Mahidol University International College.
 ### * Teaching Assistant on Functional Parallel Programming and Data Structure and Object Oriented Programming.
