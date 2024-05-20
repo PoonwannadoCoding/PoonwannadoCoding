@@ -1,7 +1,7 @@
 ## Hi there 👋
 ✨ Just a Builder ✨
 ### My name is Poon. 🌱
-### * I'm 4th year Computer Science Student at Mahidol University International College.
+### * I'm graduated Computer Science Student at Mahidol University International College.
 ### * Teaching Assistant on Functional Parallel Programming and Data Structure and Object Oriented Programming.
 ### Welcome to my wonderful github
 
